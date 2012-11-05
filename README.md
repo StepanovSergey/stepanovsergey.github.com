@@ -1,4 +1,4 @@
 stepanovsergey.github.com
 =========================
 
-Owner site
+My site on github. Here you can see my projects and some information about me
